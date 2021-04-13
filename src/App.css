@@ -1,0 +1,32 @@
+/* CSS, também conhecido como "a arte do negócio". Extremamente chato de se resolver kpsakpsa*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+body{
+  background-color: black;
+  background-image: url(./images/riodocongo.png);
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
+}
+
+ul{
+  background-color: rgb(0, 0,0) transparent;
+  color: white;
+}
+
+li{
+  padding: 10px;
+  text-align: center;
+  list-style-type: none;
+}
+
+button{
+  font-size: 17px;
+  background-color: black;
+  color: white;
+  border: 25px;
+  border-radius: 140px;
+}
+
+h3{
+  text-align: center;
+}

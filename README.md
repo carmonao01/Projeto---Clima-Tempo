@@ -1,2 +1,1 @@
-# Projeto---Clima-Tempo
-Novo projeto utilizando API de clima/tempo para verificação no momento atual de clica/tempo. Apresentação ocorrerá dia 13/04/2021 e propenso a futuras mudanças.
+ESSA APLICAÇÃO FOI FEITA POR PAULO VICTOR E LUCAS GOMES, AMBOS MEMBROS DA FATEC ITU - GESTÃO DA TECNOLOGIA DA INFORMAÇÃO - NOTURNO
